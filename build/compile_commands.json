@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/GitHub/damBreak/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\HelloWorld.dir\\HelloWorld.cpp.obj -c D:\\GitHub\\damBreak\\HelloWorld.cpp",
+  "file": "D:/GitHub/damBreak/HelloWorld.cpp"
+}
+]
